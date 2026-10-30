@@ -1,0 +1,16 @@
+{
+  "source_archive": "chart.zip",
+  "original_file_count": 94,
+  "asset_manifests_referenced": [
+    "artist.jpg.asset.json",
+    "artwork-01.jpg.asset.json",
+    "artwork-02.jpg.asset.json",
+    "artwork-03.jpg.asset.json",
+    "artwork-04.jpg.asset.json",
+    "artwork-05.png.asset.json",
+    "artwork-06.png.asset.json",
+    "artwork-07.png.asset.json",
+    "artwork-08.png.asset.json"
+  ],
+  "note": "Original images were absent from the archive; empty manifest placeholders were created."
+}

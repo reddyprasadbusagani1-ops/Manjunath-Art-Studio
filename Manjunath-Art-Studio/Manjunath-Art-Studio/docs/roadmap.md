@@ -1,0 +1,4 @@
+- [x] Add real photos
+- [x] AI custom-order brief helper
+- [ ] Browser QA desktop + mobile
+- [x] Proofread architecture document (consistency, completeness, clarity)
